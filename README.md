@@ -47,3 +47,5 @@
 Сервисы для работы с документацией:
 * Текстовый редактор: Word, Odt, Google Docs
 * Графический редактор: FastStone Picture, Adobe Photoshop
+
+Доска Miro - https://miro.com/app/board/uXjVOHslPmw=/
